@@ -1,29 +1,54 @@
 {
-    "player":[
-        {
-            "id": 0,
-            "name": "RK",
-            "score": 10000
-        },
-        {
-            "id": 1,
-            "name": "YY",
-            "score": 3000
-        },
-        {
-            "id": 2,
-            "name": "JC",
-            "score": 12000
-        },
-        {
-            "id": 3,
-            "name": "JV",
-            "score": 1000
-        },
-        {
-            "id": 4,
-            "name": "John",
-            "score": 200
-        }
-    ]
+  "player": [
+    {
+      "id": 0,
+      "name": "RK",
+      "score": 10000
+    },
+    {
+      "id": 1,
+      "name": "YY",
+      "score": 3000
+    },
+    {
+      "id": 2,
+      "name": "JC",
+      "score": 12000
+    },
+    {
+      "id": 3,
+      "name": "JV",
+      "score": 1000
+    },
+    {
+      "id": 4,
+      "name": "John",
+      "score": 2700
+    },
+    {
+      "id": 6,
+      "name": "Mole",
+      "score": 80000
+    },
+    {
+      "id": 7,
+      "name": "Kent",
+      "score": 30500
+    },
+    {
+      "id": 8,
+      "name": "Vincent",
+      "score": 152000
+    },
+    {
+      "id": 9,
+      "name": "Faker",
+      "score": 112000
+    },
+    {
+      "id": 10,
+      "name": "Brobo",
+      "score": 20000
+    }
+  ]
 }
